@@ -172,9 +172,17 @@ line-height: 29px;
 @media (max-width: 576px) {
     .rocket {
         position: static;
+        margin-left: 29%;
+    }
+    .features-title {
+        text-align: center;
     }
     .table {
         margin-bottom: 0;
+        margin-left: 15%;
+    }
+    .features-text {
+        text-align: center;
     }
     .table-column {
         font-size: 12px;
