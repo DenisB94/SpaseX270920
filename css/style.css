@@ -170,6 +170,12 @@ line-height: 29px;
     }
 }
 @media (max-width: 576px) {
+    .video {
+        position: relative;
+        width: 100%;
+        height: auto;
+        padding-bottom: 56.25%;
+    }
     .rocket {
         position: static;
         margin-left: 29%;
